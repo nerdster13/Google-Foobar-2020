@@ -16,15 +16,15 @@ Inside each level is a challenge folder with a problem file describing the chall
 - [Lovely Lucky Lambs](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%202/lovely_lucky_lambs)
 
 ### Level 3
-- [Bomb Baby!](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%203/bomb_baby)
-- [Doomsday Fuel](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%203/doomsday_fuel)
-- [Preapare The Bunny Escape](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%203/prepare_the_bunny_escape)
+- [Bomb Baby!](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%203/bomb-baby)
+- [Doomsday Fuel](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%203/doomsday-fuel)
+- [Preapare The Bunny Escape](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%203/prepare-the-bunny-escape)
 
 At this point, I was offered to send my solutions to a Google recruiter. Checkout the [questionnaire.md](https://github.com/n3a9/google-foobar/blob/master/Level%203/questionnaire.md) for details.
 
 ### Level 4
 - [Bringing a Gun to a Guard Fight](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%204/bringing_a_gun_to_a_guard_fight)
-- [Escape Pods](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%204/escape_pods)
+- [Escape Pods](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%204/escape-pods)
 
 ### Level 5
 - [Disorderly Escape](https://github.com/nerdster13/Google-Foobar-2020/tree/master/Level%205/disorderly_escape)
